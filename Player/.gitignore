@@ -60,3 +60,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# External libraries
+[Aa]ssets/[Ll]ibraries/*.dll
+[Aa]ssets/[Ll]ibraries/*.dll.meta
