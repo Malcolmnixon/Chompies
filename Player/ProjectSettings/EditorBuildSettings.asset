@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DesktopMenu.unity
     guid: ad980fb3cbdaae2a1926aeb77fd77c9a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AndroidMenu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
