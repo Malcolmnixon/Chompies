@@ -27,7 +27,8 @@ public class MouseFollow : MonoBehaviour {
 
             Debug.Log($"New {newX}, {newZ}");
 
-            transform.Translate(new Vector3 (newX, 0, newZ));
+            transform.Rotate(0, amountX, 0);
+            transform.Translate(new Vector3 (0, 0, newZ));
         }
     }
 }
